@@ -1,9 +1,5 @@
 **NOTE: THE CONTENTS OF THIS FILE ARE FOR A PORTFOLIO WEBSITE I'VE DEVELOPED AND SHOULD BE EXCLUDED FROM ANY CONTRIBUTIONS MADE TO THIS REPOSITORY**
 
-# Tic Tac Toe
-## About
-A simple game of Tic-Tac-Toe made using Python to start off my repositories!
-
 ## Project Review
 This was the first project, aside from the tutorial project you can do with Github Desktop, that I published on my Github page.
 
